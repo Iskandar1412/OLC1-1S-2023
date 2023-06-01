@@ -1,0 +1,12 @@
+[
+  {
+    "Resultado": "Cadena Valida",
+    "Expresion_Regular": "correoElectronico",
+    "Valor": "lachalana666@ingusac.com"
+  },
+  {
+    "Resultado": "Cadena Valida",
+    "Expresion_Regular": "url",
+    "Valor": "https://facebook.com"
+  }
+]
